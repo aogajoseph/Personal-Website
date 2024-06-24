@@ -10419,6 +10419,14 @@ a.next.page-numbers:hover {
     -webkit-appearance: textfield
 }
 
+.search-form input.search-field,
+.wp-block-search ::placeholder {
+    color: rgb(68, 66, 66);
+    font-size: .85em;
+    font-style: italic;
+    letter-spacing: 3px;
+}
+
 .search-form input.search-submit,
 .wp-block-search .wp-block-search__button {
     margin-top: 0;
