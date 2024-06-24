@@ -1,0 +1,64 @@
+.elementor-40 .elementor-element.elementor-element-d9a8a20>.elementor-widget-container {
+    margin: 0 0 -30px
+}
+
+.elementor-40 .elementor-element.elementor-element-d9a8a20 {
+    width: var(--container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-40 .elementor-element.elementor-element-fed6e91 {
+    margin-top: 0;
+    margin-bottom: 20px
+}
+
+.elementor-40 .elementor-element.elementor-element-89364a6>.elementor-element-populated {
+    padding: 0 20px 0 0
+}
+
+.elementor-40 .elementor-element.elementor-element-ab3d05b {
+    width: var(--container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-40 .elementor-element.elementor-element-4b8675e>.elementor-element-populated {
+    padding: 15px 0 0 30px
+}
+
+.elementor-40 .elementor-element.elementor-element-5d75892 {
+    width: var(--container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-40 .elementor-element.elementor-element-7b7114b {
+    width: var(--container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-40 .elementor-element.elementor-element-8e3ee54 {
+    width: var(--container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0
+}
+
+@media(max-width:767px) {
+    .elementor-40 .elementor-element.elementor-element-fed6e91 {
+        margin-top: 0;
+        margin-bottom: 50px
+    }
+    .elementor-40 .elementor-element.elementor-element-4b8675e>.elementor-element-populated {
+        margin: -30px 0 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0
+    }
+}
