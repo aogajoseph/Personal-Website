@@ -6053,7 +6053,7 @@ dd {
 
 .card-started .profile .social {
     position: relative;
-    margin: 16px 0 0
+    margin: 16px 0 0;
 }
 
 .card-started .profile .social a {
@@ -6464,7 +6464,7 @@ dd {
         height: 55%
     }
     .card-started .profile.no-photo .title {
-        margin-top: 200px
+        margin-top: 200px;
     }
     .card-started .profile .profile-content {
         height: 100vh;
@@ -13000,9 +13000,41 @@ td {
 }
 
 .card-started .profile.full-style .social a .ion,
-.card-started .profile.full-style .social a .fab,
+.card-started .profile.full-style .social a .fa-github,
 .card-started .profile.full-style .social a .fas {
-    color: rgba(255, 255, 255, .85)
+    color: #181717;
+}
+
+.card-started .profile.full-style .social a .ion,
+.card-started .profile.full-style .social a .fa-linkedin,
+.card-started .profile.full-style .social a .fas {
+    color: #0077B5;
+}
+
+.card-started .profile.full-style .social a .ion,
+.card-started .profile.full-style .social a .fa-whatsapp,
+.card-started .profile.full-style .social a .fas {
+    color: green;
+}
+
+.card-started .profile.full-style .social a .ion,
+.card-started .profile.full-style .social a .fa-x-twitter,
+.card-started .profile.full-style .social a .fas {
+    color: #14171A;
+}
+
+.card-started .profile.full-style .social a .ion,
+.card-started .profile.full-style .social a .fa-facebook,
+.card-started .profile.full-style .social a .fas {
+    color: #1877F2;
+}
+
+.card-started .profile.full-style .social a .ion,
+.card-started .profile.full-style .social a .fa-instagram,
+.card-started .profile.full-style .social a .fas {
+    background: linear-gradient(45deg, #833AB4, #E1306C, #FD1D1D, #FCAF45);
+    -webkit-background-clip: text;
+    color: transparent;
 }
 
 .card-started.full-style-cyber .profile,
