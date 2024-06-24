@@ -6092,7 +6092,7 @@ dd {
 .card-started .profile .social a:hover .fab,
 .card-started .profile .social a:hover .fas,
 .card-started .profile .social a:hover .fa {
-    color: #78cc6d
+    color: #78cc6d;
 }
 
 .card-started .profile .lnk.active.discover .arrow {
@@ -13037,6 +13037,36 @@ td {
     color: transparent;
 }
 
+.card-started .profile.full-style .social,
+.card-started .profile.full-style .social a .fa-github:hover {
+    color: grey;
+}
+
+.card-started .profile.full-style .social,
+.card-started .profile.full-style .social a .fa-linkedin:hover {
+    color: grey;
+}
+
+.card-started .profile.full-style .social,
+.card-started .profile.full-style .social a .fa-whatsapp:hover {
+    color: grey;
+}
+
+.card-started .profile.full-style .social,
+.card-started .profile.full-style .social a .fa-x-twitter:hover {
+    color: grey;
+}
+
+.card-started .profile.full-style .social,
+.card-started .profile.full-style .social a .fa-facebook:hover {
+    color: grey;
+}
+
+.card-started .profile.full-style .social,
+.card-started .profile.full-style .social a .fa-instagram:hover {
+    color: grey;
+}
+
 .card-started.full-style-cyber .profile,
 .card-started.full-style-cyber:before {
     -webkit-clip-path: polygon(0% 2%, 61% 2%, 63% 0, 100% 0%, 100% 0%, 100% 16%, 98% 17%, 98% 47%, 100% 48%, 100% 99%, 100% 100%, 100% 100%, 26% 100%, 25% 99%, 12% 99%, 11% 100%, 0% 100%, 0 64%, 2% 63%, 2% 10%, 0% 9%, 0 0%);
@@ -13581,7 +13611,7 @@ body.body-style-dark .rprof-after path:nth-child(3) {
 .card-started .profile.full-style .social a .ion path,
 .card-started .profile.full-style .social a .fab path,
 .card-started .profile.full-style .social a .fas path {
-    fill: rgba(255, 255, 255, .85)
+    fill: rgba(255, 255, 255, .85);
 }
 
 .fab.fa-twitter.x-icon:before {
