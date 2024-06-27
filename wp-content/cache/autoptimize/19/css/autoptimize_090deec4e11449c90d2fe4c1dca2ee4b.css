@@ -10278,8 +10278,8 @@ a.next.page-numbers:hover {
     position: relative;
     padding: 10px 0;
     margin: 0;
-    color: #999;
-    border-top: 1px solid #eee
+    color: #ffffff;
+    border-top: 1px solid #776d6d
 }
 
 .content-sidebar .widget ul li:last-child .content-sidebar .widget ol li:last-child {
@@ -10289,11 +10289,11 @@ a.next.page-numbers:hover {
 .content-sidebar .widget ul li a,
 .content-sidebar .widget ol li a {
     padding-bottom: 0;
-    color: #363636
+    color: rgb(104, 100, 100);
 }
 
 .content-sidebar .widget ul li a:hover {
-    color: #78cc6d
+    color: #ffecec
 }
 
 .content-sidebar .widget ul li li {
@@ -10445,8 +10445,8 @@ a.next.page-numbers:hover {
 
 .search-form input.search-submit:hover,
 .wp-block-search .wp-block-search__button:hover {
-    background: url(//ryancv.bslthemes.com/app-developer/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
-    background-size: 18px 18px
+    background: url(/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
+    background-size: 25px 25px;
 }
 
 .content-sidebar h2.widget-title,
@@ -10455,7 +10455,7 @@ a.next.page-numbers:hover {
     padding: 0 0 5px;
     position: relative;
     font-size: 18px;
-    color: #323232;
+    color: #78cc6d;
     line-height: 21px;
     font-weight: 600
 }
