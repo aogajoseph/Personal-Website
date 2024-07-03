@@ -12593,6 +12593,13 @@ body.page-template-elementor_canvas {
     -webkit-border-radius: 60px
 }
 
+.pricing-description {
+    color: grey;
+    font-weight: 100;
+    font-size: small;
+    font-style: italic;
+}
+
 .solid-icons-style .pricing-items .pricing-item .icon,
 .solid-icons-style .fuct-items .fuct-item .icon,
 .border-icons-style .pricing-items .pricing-item .icon,
