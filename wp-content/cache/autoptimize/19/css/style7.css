@@ -4436,7 +4436,7 @@ input[type=submit] {
     height: 70px;
     line-height: 70px;
     font-size: 14px;
-    color: #323232;
+    color: #fff7f7;
     font-weight: 600;
     text-align: center;
     text-decoration: none;
@@ -10437,15 +10437,15 @@ a.next.page-numbers:hover {
     right: 0;
     width: 50px;
     height: 50px;
-    background: url(/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
+    background: url("/wp-content/themes/ryancv/assets/images/android-search.png") no-repeat center center;
     background-size: 30px 30px;
     font-size: 0;
-    border: none
+    border: none;
 }
 
 .search-form input.search-submit:hover,
 .wp-block-search .wp-block-search__button:hover {
-    background: url(/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
+    background: url("/wp-content/themes/ryancv/assets/images/android-search.png") no-repeat center center;
     background-size: 25px 25px;
 }
 
@@ -10457,7 +10457,7 @@ a.next.page-numbers:hover {
     font-size: 18px;
     color: #78cc6d;
     line-height: 21px;
-    font-weight: 600
+    font-weight: 600;
 }
 
 .content-sidebar h2.widget-title:before,
@@ -10475,7 +10475,7 @@ a.next.page-numbers:hover {
     border-radius: 30px;
     -moz-border-radius: 30px;
     -webkit-border-radius: 30px;
-    -khtml-border-radius: 30px
+    -khtml-border-radius: 30px;
 }
 
 .content-sidebar .recentcomments {
@@ -13003,7 +13003,7 @@ td {
 .card-started .profile.full-style .title,
 .card-started .profile.full-style .lnk,
 .card-started .profile.full-style .button {
-    color: #fff
+    color: #fff;
 }
 
 .card-started .profile.full-style.default-menu-open .lnk {

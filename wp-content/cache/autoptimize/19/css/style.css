@@ -4,6 +4,20 @@
     font-weight: var(--e-global-typography-primary-font-weight)
 }
 
+.wp-block-latest-comments__comment-author {
+    color: rgb(112, 96, 96);
+}
+
+.wp-block-latest-comments__comment-link:hover {
+    color: #4caf51;
+}
+
+.open-source_project-title {
+    font-weight: 200;
+}
+
+
+
 .elementor-widget-image .widget-image-caption {
     color: var(--e-global-color-text);
     font-family: var(--e-global-typography-text-font-family), Sans-serif;
