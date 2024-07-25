@@ -24352,6 +24352,10 @@ button.swiper-pagination-bullet {
     content: "\f26e"
 }
 
+.md-icon {
+    font-size: larger;
+}
+
 .fa-accessible-icon:before {
     content: "\f368"
 }
