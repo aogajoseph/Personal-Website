@@ -33260,7 +33260,7 @@ if (window.innerWidth > 680) {
             autoFocusLast: true
         }
     };
-    $.fn.magnificPopup = function(options) {
+    $.fn.magnificPopup = functio8n(options) {
         _checkInstance();
         var jqEl = $(this);
         if (typeof options === "string") {
