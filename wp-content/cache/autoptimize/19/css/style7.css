@@ -7384,7 +7384,7 @@ body .clients-infinite .swiper-wrapper {
 }
 
 .skills-list.list ul li .name:before {
-    content: "\f121";
+    content: "\f12";
     position: absolute;
     left: 0;
     top: 0;
