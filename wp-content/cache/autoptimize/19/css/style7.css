@@ -12894,7 +12894,9 @@ body.page-template-elementor_canvas {
 .header .profile .subtitle.subtitle-typed {
     position: relative;
     overflow: hidden;
-    height: 34px
+    height: 34px;
+    color: #024902;
+    letter-spacing: 2px;
 }
 
 .columns-1.row.border-line-v:after {
