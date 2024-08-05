@@ -5,15 +5,11 @@
 }
 
 .wp-block-latest-comments__comment-author {
-    color: rgb(112, 96, 96);
+    color: rgb(182, 166, 166);
 }
 
 .wp-block-latest-comments__comment-link:hover {
     color: #4caf51;
-}
-
-.open-source_project-title {
-    font-weight: 200;
 }
 
 .elementor-widget-image .widget-image-caption {
