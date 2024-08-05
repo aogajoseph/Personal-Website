@@ -4817,7 +4817,7 @@ input[type=file] {
 }
 
 ::-webkit-input-placeholder {
-    color: #999
+    color: #e0d4d4
 }
 
 :-moz-placeholder {
@@ -10425,12 +10425,12 @@ a.next.page-numbers:hover {
     box-shadow: none;
     font-weight: 400;
     appearance: textfield;
-    -webkit-appearance: textfield
+    -webkit-appearance: textfield;
 }
 
 .search-form input.search-field,
 .wp-block-search ::placeholder {
-    color: rgb(68, 66, 66);
+    color: #c9c6c6;
     font-size: .85em;
     font-style: italic;
     letter-spacing: 3px;

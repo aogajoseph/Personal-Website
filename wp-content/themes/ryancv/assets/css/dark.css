@@ -454,7 +454,7 @@ input[type="submit"] {
 
 .search-form input.search-field,
 .wp-block-search input[type=search] {
-    border-color: #666;
+    border-color: #dad4d4;
     color: rgb(224, 219, 219);
 }
 
