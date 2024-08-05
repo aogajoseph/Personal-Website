@@ -4566,7 +4566,12 @@ input[type=submit] {
 
 .lnk:hover,
 .button:hover {
-    color: #78cc6d
+    color: #24ee09;
+}
+
+.text:hover {
+    color: #21f705;
+    
 }
 
 .lnk:hover .ion,
