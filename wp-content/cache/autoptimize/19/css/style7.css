@@ -4817,7 +4817,9 @@ input[type=file] {
 }
 
 ::-webkit-input-placeholder {
-    color: #e0d4d4
+    color: #8a8080;
+    font-style: italic;
+    font-weight: normal;
 }
 
 :-moz-placeholder {
