@@ -9778,7 +9778,6 @@ a.next.page-numbers:hover {
 }
 
 .post-comments .post-comment .desc span.comment-reply a:before {
-    content: "\f21e";
     margin-right: 5px;
     position: relative;
     left: 0;
