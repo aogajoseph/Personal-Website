@@ -1485,18 +1485,18 @@
                                     <div id="respond" class="comment-respond">
                                         <div id="reply-title" class="title comment-reply-title">
                                             <div class="title_inner">Leave a comment 
-                                                <small><a rel="nofollow" id="cancel-comment-reply-link" href="/app-developer/2020/04/28/brand-identity-with-code/#respond" style="display:none;">Cancel Reply</a></small>
+                                                <small><a rel="nofollow" id="cancel-comment-reply-link" href="#" style="display:none;">Cancel Reply</a></small>
                                             </div>
                                         </div>
-                                        <form action="https://ryancv.bslthemes.com/app-developer/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+                                        <form action="#" method="post" id="commentform" class="comment-form">
                                             <div class="group-val ct-gr">
-                                                <textarea placeholder="Comment" id="comment" name="comment" aria-required="true" ></textarea>
+                                                <textarea placeholder="Comment" id="comment" name="comment" aria-required="true" required></textarea>
                                             </div>
                                             <div class="group-val">
-                                                <input id="author" name="author" type="text" placeholder="Name" value=""  aria-required='true' />
+                                                <input id="author" name="author" type="text" placeholder="Full Name" value=""  aria-required='true'required />
                                             </div>
                                             <div class="group-val">
-                                                <input id="email" name="email" type="text" placeholder="Email" value=""  aria-required='true' />
+                                                <input id="email" name="email" type="email" placeholder="Email" value=""  aria-required='true' required/>
                                             </div>
                                             <p class="comment-form-cookies-consent">
                                                 <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> 
@@ -1517,7 +1517,6 @@
                         </div>
                     </div><!-- #comments -->
                 </div>
-            </div>
             </div>
     
             <!-- bslthemes.com buttons html begin -->
