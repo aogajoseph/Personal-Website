@@ -115,6 +115,10 @@ button {
     color: rgb(21, 255, 0);
 }
 
+.sub2 {
+    color: rgb(255, 255, 255);
+}
+
 input:focus::-webkit-input-placeholder,
 textarea:focus::-webkit-input-placeholder {
     color: rgba(255, 255, 255, 0.9);
