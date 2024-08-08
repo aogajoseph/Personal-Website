@@ -17945,8 +17945,16 @@ Tags: editor-style, featured-images, sticky-post, threaded-comments, translation
     content: "\f425"
 }
 
-.ion-ios-eye-outline:before {
-    content: "\f424"
+.free {
+    color: grey;
+    font-style: italic;
+    font-size: x-small;
+    text-transform: none;
+    letter-spacing: 2px;
+}
+
+.fas fa-expand:before {
+    content: "\f065";
 }
 
 .ion-ios-fastforward:before {
