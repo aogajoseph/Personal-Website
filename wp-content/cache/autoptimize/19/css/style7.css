@@ -8845,7 +8845,7 @@ body .clients-infinite .swiper-wrapper {
     top: 50%;
     width: 32px;
     height: 32px;
-    font-size: 32px;
+    font-size: 62px;
     line-height: 32px;
     color: #fff;
     transition: all .1s ease-in .4s;
@@ -8857,7 +8857,7 @@ body .clients-infinite .swiper-wrapper {
 .box-item .image .info .fab,
 .box-item .image .info .fas,
 .box-item .image .info .fa {
-    font-size: 28px
+    font-size: 32px
 }
 
 .box-item .image .info [class^='ion ion-ios-'] {
@@ -17957,7 +17957,7 @@ Tags: editor-style, featured-images, sticky-post, threaded-comments, translation
 }
 
 .ion-ios-eye:before {
-    content: "\f425"
+    content: "\f035"
 }
 
 .free {
@@ -17966,10 +17966,6 @@ Tags: editor-style, featured-images, sticky-post, threaded-comments, translation
     font-size: x-small;
     text-transform: none;
     letter-spacing: 2px;
-}
-
-.fas fa-expand:before {
-    content: "\f065";
 }
 
 .ion-ios-fastforward:before {
