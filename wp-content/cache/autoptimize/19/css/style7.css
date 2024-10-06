@@ -12914,7 +12914,7 @@ body.page-template-elementor_canvas {
 .header .profile .subtitle.subtitle-typed {
     position: relative;
     overflow: hidden;
-    height: 34px;
+    height: 40px;
     color: #024902;
     letter-spacing: 2px;
 }
@@ -13117,7 +13117,7 @@ td {
 
 .card-started.full-style-cyber .profile .slide:before,
 .card-started .profile.full-style.fs-blur .slide:before {
-    height: 33%;
+    height: 27%;
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px)
 }
