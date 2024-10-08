@@ -13102,7 +13102,7 @@ td {
 
 .card-started.full-style-cyber .profile .slide:before,
 .card-started .profile.full-style.fs-blur .slide:before {
-    height: 27%;
+    height: 35%;
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px)
 }
