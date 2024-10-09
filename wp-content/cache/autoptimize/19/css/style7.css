@@ -13049,9 +13049,7 @@ td {
 .card-started .profile.full-style .social a .ion,
 .card-started .profile.full-style .social a .fa-instagram,
 .card-started .profile.full-style .social a .fas {
-    background: linear-gradient(45deg, #833AB4, #E1306C, #FD1D1D, #FCAF45);
-    -webkit-background-clip:;
-    color: transparent;
+    color: #E4405F;
 }
 
 .card-started .profile.full-style .social,
